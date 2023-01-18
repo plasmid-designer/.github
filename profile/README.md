@@ -1,5 +1,5 @@
 # Hi there 👋
-We are trying to make genetic engineering available to everyone.
+We are trying to make genetic engineering available to everyone.<br>
 Always looking for contributors, so if you're in the space, feel free to reach out!
 
 ## Plasmid Designer
